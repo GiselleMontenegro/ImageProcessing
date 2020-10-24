@@ -1,4 +1,2 @@
 
-This is a new line in the file you modified.
-
 Hola Mundo
